@@ -3,10 +3,10 @@ EventOcto is block-based coding IDE that generates JavaScript for things you nee
 This will be our trip to coding with blocky JS!
 
 # Blocks
-Blocks are puzzle-piece shapes that are used to create code in Scratch. The blocks connect to each other vertically like a jigsaw puzzle, where each block type (hat, stack, reporter, boolean, or cap) has its own shape and its own slot shape for it to be inserted into. Series of connected blocks are called scripts.
+Blocks are puzzle-piece shapes that are used to create code in EventOcto. The blocks connect to each other vertically like a jigsaw puzzle, where each block type (hat, stack, reporter, boolean, or cap) has its own shape and its own slot shape for it to be inserted into. Series of connected blocks are called scripts. That is what blocks are!
 
 # Categories
-Block categories are the way blocks are sorted in Scratch's block palette. Blocks are categorized based on their functionality, and blocks within the same category share the same color. The separation of color among categories allows better distinction of the parts of a project and increases the ease of access. There are nine main block categories in Scratch 3.0, eleven extensions, and three Raspberry Pi extensions.
+Block categories are the way blocks are sorted in EventOcto's block palette. Blocks are categorized based on their functionality, and blocks within the same category share the same color. The separation of color among categories allows better distinction of the parts of a project and increases the ease of access. That is what categories are!
 
 # Thank you for reading!
 This read-me tutorial was great! Thank you for reading this tutorial! I hope you have a fun time using this website! Thanks from **Funtasmo!**
